@@ -14,7 +14,7 @@
 <img src="https://img.shields.io/badge/HTML5-f16529?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS3-2965f1?style=for-the-badge&logo=css3&logoColor=white">
 
-## Banco de dados
+## Bancos de dados
 
 <img src="https://img.shields.io/badge/MYSQL-005f8e?style=for-the-badge&logo=mysql&logoColor=white">
 
