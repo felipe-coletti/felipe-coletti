@@ -13,11 +13,11 @@
 
 ## Bancos de dados
 
-<img src="https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=f29111">
+<img src="https://img.shields.io/badge/MYSQL-00758f?style=for-the-badge&logo=mysql&logoColor=white">
 
 ## Bibliotecas e frameworks
 
-<img src="https://img.shields.io/badge/REACT%20NACTIVE-00a7d4?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/NODE.JS-24242c?style=for-the-badge&logo=node.js&logoColor=34454d">
+<img src="https://img.shields.io/badge/REACT%20NACTIVE-00a7d4?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/NODE.JS-303030?style=for-the-badge&logo=node.js&logoColor=3c873A">
 
 ## Wireframes
 
