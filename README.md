@@ -5,7 +5,7 @@
 
 ## Linguagens de programção
 
-<img src="https://img.shields.io/badge/PYTHON-4b8bbe?style=for-the-badge&logo=python&logoColor=ffe873"> <img src="https://img.shields.io/badge/PHP-6c78af?style=for-the-badge&logo=php&logoColor=white">
+<img src="https://img.shields.io/badge/PYTHON-306998?style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/PHP-6c78af?style=for-the-badge&logo=php&logoColor=white">
 
 ## Linguagens de marcação
 
