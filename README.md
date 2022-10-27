@@ -9,7 +9,7 @@
 
 ## Linguagens de marcação
 
-<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-0f5298?style=for-the-badge&logo=css3&logoColor=2565ae">
+<img src="https://img.shields.io/badge/HTML5-e34c26?style=for-the-badge&logo=html5&logoColor=white"> <img src="https://img.shields.io/badge/CSS3-0f5298?style=for-the-badge&logo=css3&logoColor=white">
 
 ## Bancos de dados
 
