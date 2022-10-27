@@ -25,4 +25,4 @@
 
 ## Contato
 
-<a href="https://www.linkedin.com/in/felipe-coletti-41a49a229"><img src="https://img.shields.io/badge/LinkedIn-2365b1?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/felipe-coletti-41a49a229"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
