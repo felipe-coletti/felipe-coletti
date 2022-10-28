@@ -2,7 +2,7 @@
 <p>Sobre mim</p>
 -->
 
-<p font-size="18px">Meus status</p>
+<p font-size="20px">Meus status</p>
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
 
