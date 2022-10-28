@@ -17,7 +17,7 @@
 
 ## Bancos de dados
 
-<img src="https://img.shields.io/badge/mysql-f29111?style=for-the-badge&logo=mysql&logoColor=00758f">
+<img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=f29111">
 
 ## Bibliotecas e frameworks
 
