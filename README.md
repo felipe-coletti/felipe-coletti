@@ -16,7 +16,8 @@
 
 <p>Bancos de dados</p>
 
-<img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=f29111">
+<!--f29111-->
+<img src="https://img.shields.io/badge/mysql-00758f?style=for-the-badge&logo=mysql&logoColor=white">
 
 <p>Bibliotecas e frameworks</p>
 
