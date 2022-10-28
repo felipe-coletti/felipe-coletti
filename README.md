@@ -1,3 +1,7 @@
+<style>
+p {font-size: 18px}
+</style>
+
 <!--
 <p>Sobre mim</p>
 -->
