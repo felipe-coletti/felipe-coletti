@@ -6,7 +6,7 @@
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
 
-## Linguagens de programção
+## Linguagens de programação
 
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/php-6c78af?style=for-the-badge&logo=php&logoColor=white">
 
