@@ -1,4 +1,4 @@
-<body oncontextmenu="return false" onselectstart="return false">
+<body oncontextmenu="return false" onselectstart="return false" onmousedown="return false" onkeydown="return false">
 <!--
 ## Sobre mim
 -->
