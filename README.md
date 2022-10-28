@@ -5,7 +5,7 @@
 ## Meus status
 
 <div align="center">
-  <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="150em" width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
+  <img height="150em" width="49%" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="150em" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
 </div>
 
 ## Linguagens de programção
