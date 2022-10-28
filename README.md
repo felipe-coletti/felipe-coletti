@@ -1,4 +1,3 @@
-<div align="center">
 <!--
 ## Sobre mim
 -->
@@ -26,5 +25,3 @@
 ## Contato
 
 <a href="https://www.linkedin.com/in/felipe-coletti-41a49a229"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</div>
-
