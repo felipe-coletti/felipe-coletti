@@ -1,7 +1,7 @@
 ## Meus status
 
 <div>
-  <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=default"> <img height="150em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=default">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=default"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=default">
   <img src="https://github-profile-trophy.vercel.app/?username=felipe-coletti&column=8&theme=default&no-frame=true&margin-w=3&margin-h=5">
 </div>
 
