@@ -1,8 +1,8 @@
 ## Meus status
 
 <div>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=default_repocard">
-  <img src="https://github-profile-trophy.vercel.app/?username=felipe-coletti&column=8&theme=default&no-frame=true&margin-w=3&margin-h=5">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
+  <img src="https://github-profile-trophy.vercel.app/?username=felipe-coletti&column=8&theme=transparent&no-frame=true&margin-w=3&margin-h=5">
 </div>
 
 ## Linguagens de programção
