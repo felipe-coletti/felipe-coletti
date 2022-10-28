@@ -7,10 +7,6 @@
 
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
 
-## Contribuições
-
-<img height="150em" src="https://github.com/felipe-coletti/felipe-coletti/blob/output/github-contribution-grid-snake.svg">
-
 ## Linguagens de programção
 
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/php-6c78af?style=for-the-badge&logo=php&logoColor=white">
