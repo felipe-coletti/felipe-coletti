@@ -24,6 +24,6 @@
 
 <img src="https://img.shields.io/badge/react_nactive-00a7d4?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=68a063"> <img src="https://img.shields.io/badge/figma-f24e1e?style=for-the-badge&logo=figma&logoColor=white">
 
-## Formas de contato
+## Contato
 
 <a href="https://www.linkedin.com/in/felipe-coletti-41a49a229"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
