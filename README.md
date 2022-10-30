@@ -24,7 +24,8 @@
 
 #### Frameworks and libraries
 
-<img src="https://img.shields.io/badge/react_nactive-00a7d4?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=68a063"> <img src="https://img.shields.io/badge/figma-303030?style=for-the-badge&logo=figma&logoColor=f24e1e">
+<!--f24e1e-->
+<img src="https://img.shields.io/badge/react_nactive-00a7d4?style=for-the-badge&logo=react&logoColor=white"> <img src="https://img.shields.io/badge/node.js-303030?style=for-the-badge&logo=node.js&logoColor=68a063"> <img src="https://img.shields.io/badge/figma-303030?style=for-the-badge&logo=figma&logoColor=white">
 
 ### Contact
 
