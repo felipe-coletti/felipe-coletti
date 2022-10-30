@@ -8,7 +8,7 @@
 
 ### Tecnologias
 
-#### Program languages
+#### Programing languages
 
 <img src="https://img.shields.io/badge/python-306998?style=for-the-badge&logo=python&logoColor=ffd43b"> <img src="https://img.shields.io/badge/php-6c78af?style=for-the-badge&logo=php&logoColor=white">
 <img src="https://img.shields.io/badge/javascript-f0db4f?style=for-the-badge&logo=javascript&logoColor=323330">
