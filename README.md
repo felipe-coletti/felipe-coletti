@@ -2,7 +2,7 @@
 ### About me
 -->
 
-### Statistics
+<h3>Statistics<\h3>
 
 <img height="160em" src="https://github-readme-stats.vercel.app/api?username=felipe-coletti&show_icons=true&theme=transparent"> <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipe-coletti&layout=compact&theme=transparent">
 
