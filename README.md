@@ -29,7 +29,7 @@ Frameworks and libraries
 
 Tools
 
-<img src="https://img.shields.io/badge/figma-303030?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/canva-303030?style=for-the-badge&logo=canva&logoColor=white">
+<img src="https://img.shields.io/badge/figma-303030?style=for-the-badge&logo=figma&logoColor=white"> <img src="https://img.shields.io/badge/canva-20c4cb?style=for-the-badge&logo=canva&logoColor=white">
 
 ### Contact
 
