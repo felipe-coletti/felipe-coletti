@@ -6,5 +6,5 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 ## Contact
 
-<a href="https://www.linkedin.com/in/felipe-coletti-41a49a229"><img src="https://img.shields.io/badge/linkedin-00a0dc?style=for-the-badge&logo=linkedin"></a>
+<a href="https://www.linkedin.com/in/felipe-coletti-41a49a229"><img src="https://img.shields.io/badge/linkedin-0077b5?style=for-the-badge&logo=linkedin"></a>
 <a href="https://felipe-coletti.github.io/portfolio/"><img src="https://img.shields.io/badge/portfolio-07d475?style=for-the-badge&logo=true"></a>
