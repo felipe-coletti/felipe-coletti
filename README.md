@@ -1,8 +1,9 @@
 <samp>
   <h1 align="center">Hi, I'm Felipe! 🤘</h1>
+
+  <h3 align="center">Software Engineer &amp; UI/UX Designer</h3>
   
   <p align="center">
-    <strong>Software Engineer &amp; UI/UX Designer</strong><br>
     React · TypeScript &amp; JavaScript · Go · PostgreSQL · Python
   </p>
   
